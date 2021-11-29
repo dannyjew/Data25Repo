@@ -1,1 +1,2 @@
-Hello. Let's get used to commits!
+Let's get used to commits!
+Here's a change!
